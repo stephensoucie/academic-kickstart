@@ -14,8 +14,7 @@ role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: University of Waterloo
-+url: "https://www.uwaterloo.ca"
+- name: University of Waterloo +url: "https://www.uwaterloo.ca"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include men and masculinities, gender equity, and allyship.
