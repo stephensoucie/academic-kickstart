@@ -15,7 +15,7 @@ role: Phd Student
 # Organizations/Affiliations
 organizations:
 - name: University of Waterloo
-  url: "uwaterloo.ca"
+  url: "www.uwaterloo.ca"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include men and masculinities, gender equity, and allyship.
@@ -67,4 +67,4 @@ user_groups:
 - Visitors
 ---
 
-Stephen is a PhD student in the Applied Health Sciences faculty at the University of Waterloo. On campus, Stephen works with the UNs HeForShe initiative to facilitate monthly discussions with men around healthier ideas of manhood. Stephen recently wrote a chapter in the edited collection, Feminisms in Leisure Studies, which explored the #MeToo movement, millennial mobilization, and men's accountability. Prior to returning to academia, Stephen worked for four year as the co-ordinator of the Male Allies program, a public education initiative run by the Sexual Assault Support Centre of Waterloo Region (SASC).
+I am a PhD student in the Applied Health Sciences faculty at the University of Waterloo. My research seeeks to create healthier, more just communities. On campus, I work with the UNs HeForShe initiative as both a consultant and educator in the area of men and masculinities. Off campus, I work and volunteer with men in conflcit with the law through a number of restorative justice initatives. Prior to starting my PhD, I worked for four year as the co-ordinator of the Male Allies program, a public education initiative run by the Sexual Assault Support Centre of Waterloo Region (SASC).
