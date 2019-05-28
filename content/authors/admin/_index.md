@@ -45,7 +45,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:stephensoucie@gmail.com".
-- icon: twitter
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=4hrItREAAAAJ
