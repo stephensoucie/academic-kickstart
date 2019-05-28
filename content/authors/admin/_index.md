@@ -18,24 +18,24 @@ organizations:
   url: "uwaterloo.ca"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include men and masculinities, gender equity, and allyship.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Applied Research
+- Critical Theories
+- Knowledge Mobilization
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Applied Health Sciences
+    institution: University of Waterloo
+    year: 2017-
+  - course: MA in Sociology
+    institution: Brock University
+    year: 2016
+  - course: BA in Sociology
+    institution: Brock University
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,16 +44,14 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:stephensoucie@gmail.com".
 - icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?hl=en&user=4hrItREAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/stephensoucie
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -70,6 +68,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+For the past ten years, Stephen has been actively involved in fostering conversations with men and boys around issues of healthy relationships, consent, and masculinities. Currently, Stephen is a PhD student in the Applied Health Sciences faculty at the University of Waterloo. On campus, Stephen works with the UNs HeForShe initiative to facilitate monthly discussions with men around healthier ideas of manhood. Stephen recently wrote a chapter in the edited collection, Feminisms in Leisure Studies, which explored the #MeToo movement, millennial mobilization, and men's accountability. Prior to returning to academia, Stephen worked for four year as the co-ordinator of the Male Allies program, a public education initiative run by the Sexual Assault Support Centre of Waterloo Region (SASC).
