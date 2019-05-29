@@ -67,6 +67,7 @@ user_groups:
 - Visitors
 ---
 
+
 I am a PhD student in the [Applied Health Sciences](https://uwaterloo.ca/applied-health-sciences/) faculty at the [University of Waterloo](https://uwaterloo.ca/). Broadly speaking, my research and activism is centred around creating healthier, more just communities. On campus, I work with the [UNs HeForShe](https://https://www.heforshe.org/en/) initiative to provide support and training for [faculty and campus advocates](https://uwaterloo.ca/heforshe/) in the area of men and masculinities. Off campus, I support and volunteer with a number of [community-based restorative justice initatives](https://www.youtube.com/watch?v=bW0juNi-wb4/) designed to provide [re-integration support](https://cjiwr.com/stride/stride-men/) for men in conflcit with the law.
 
 Prior to starting my PhD, I worked for four years as co-ordinator of [Male Allies](https://maleallies.org/), a public education initiative developed by the [Sexual Assault Support Centre of Waterloo Region](https://sascwr.org/) (SASC). As the first male staff member at SASC, I was provided the platform to [facilitate over four hundred workshops](https://www.youtube.com/watch?v=vQZUtjQkdWs/) with more than 10,000 men and boys. In my final year, I worked with the [Ontario Hockey League](https://ontariohockeyleague.com/) to create the curriculum for [OHL Onside](https://ontariohockeyleague.com/article/ohl-announces-launch-of-ohl-onside/), a mandatory training about healthy relationships that all players must now complete upon entering the league.
