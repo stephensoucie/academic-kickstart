@@ -85,7 +85,7 @@ date_format = "Jan 2006"
   location = "Waterloo"
   date_start = "2017-05-01"
   date_end = "2018-05-01"
-  description = """Responsible for recruiting participants and conducting in-depth semi-structured qualitative interviews. I was also tasked with editing and indexing a collection of scholarly articles."""
+  description = """Worked on two qualitative research projects. On the first, I was responsible for recruiting participants and conducting in-depth semi-structured interviews. On the second, I was tasked with putting together an edited collection of scholarly articles."""
   
   [[experience]]
   title = "Coordinator, Male Allies"
