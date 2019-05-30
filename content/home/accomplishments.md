@@ -24,8 +24,8 @@ date_format = "Jan 2006"
   title = "Programming A-Z™: R For Data Science"
   url = "https://www.udemy.com/r-programming/"
   certificate_url = ""
-  date_start = ""
-  date_end = ""
+  date_start = "2019-04-01"
+  date_end = "2019-06-01"
   description = "Learn how to code."
   
  [[item]]
