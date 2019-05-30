@@ -86,8 +86,8 @@ date_format = "Jan 2006"
   company = "Rogers"
   company_url = "rogers.com/"
   location = "Toronto"
-  date_start = "2017-07-15"
-  date_end = "2017-07-15"
+  date_start = "2017-08-15"
+  date_end = "2017-08-15"
   description = """Taught electronic engineering and researched semiconductor physics."""
   
   [[experience]]
@@ -104,10 +104,11 @@ date_format = "Jan 2006"
   company = "Gender Equity Consulting"
   company_url = "genderquity.ca/"
   location = "Canada"
-  date_start = "2017-07-01"
+  date_start = "2017-08-01"
   date_end = ""
   description = """
   Responsibilities include:
+  
   * Organizational Needs Assessment
   * Anti-Oppression and Allyship Training
   * Policy and Procedure Development
