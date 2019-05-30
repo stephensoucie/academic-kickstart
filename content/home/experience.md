@@ -86,5 +86,14 @@ date_format = "Jan 2006"
   date_start = "2017-05-01"
   date_end = "2018-05-01"
   description = """Responsible for recruiting participants and conducting in-depth semi-structured qualitative interviews. I was also tasked with editing and indexing a collection of scholarly articles."""
+  
+  [[experience]]
+  title = "Coordinator, Male Allies"
+  company = "Sexual Assault Support Centre of Waterloo Region"
+  company_url = "maleallies.ca/"
+  location = "Kitchener"
+  date_start = "2013-05-01"
+  date_end = "2017-07-01"
+  description = """Responsible for recruiting participants and conducting in-depth semi-structured qualitative interviews. I was also tasked with editing and indexing a collection of scholarly articles."""
 
 +++
