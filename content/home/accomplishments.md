@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-    [[item]]
+[[item]]
   organization = "Udemy"
   organization_url = "https://www.udemy.com"
   title = "Programming A-Z™: R For Data Science"
@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = "Learn how to code."
   
-    [[item]]
+ [[item]]
   organization = "Community Justice Initatives"
   organization_url = "https://cjiwr.com/"
   title = "StrideMen Volunteer Training"
@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   date_end = "2019-05-0=31"
   description = "Formulated informed blockchain models, hypotheses, and use cases."
 
-    [[item]]
+[[item]]
   organization = "VitalSmarts"
   organization_url = "https://www.vitalsmarts.com"
   title = "Influencer Training"
