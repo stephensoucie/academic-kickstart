@@ -55,7 +55,7 @@ date_format = "Jan 2006"
   description = """Responsible for grading student papers and exams, answering student inquires, meeting with professor, attending lectures, designing and leading student discussion in seminar."""
   
   [[experience]]
-  title = "Consultant"
+  title = "Consultant, [HeForShe IMPACT 10x10x10](https://uwaterloo.ca/heforshe/)"
   company = "University of Waterloo"
   company_url = "uwaterloo.ca/"
   location = "Waterloo"
