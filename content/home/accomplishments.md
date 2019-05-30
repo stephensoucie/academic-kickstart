@@ -34,8 +34,8 @@ date_format = "Jan 2006"
   title = "StrideMen Volunteer Training"
   url = "https://cjiwr.com/stride/stride-men/"
   certificate_url = ""
-  date_start = ""
-  date_end = ""
+  date_start = "2019-04-01"
+  date_end = "2019-05-0=31"
   description = "Formulated informed blockchain models, hypotheses, and use cases."
 
   [[item]]
@@ -44,8 +44,8 @@ date_format = "Jan 2006"
   title = "Influencer Training"
   url = "https://www.vitalsmarts.com/influencer-training/"
   certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
+  date_start = "2018-04-01"
+  date_end = "2018-04-02"
   description = "Formulated informed blockchain models, hypotheses, and use cases."
 
 +++
