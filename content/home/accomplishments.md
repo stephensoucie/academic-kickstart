@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Accomplishments"
 subtitle = ""
 
 # Date format
@@ -18,34 +18,34 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  [[item]]
+  organization = "Udemy"
+  organization_url = "https://www.udemy.com"
+  title = "Programming A-Z™: R For Data Science"
+  url = "https://www.udemy.com/r-programming/"
+  certificate_url = ""
+  date_start = ""
   date_end = ""
-  description = ""
+  description = "Learn how to code."
+  
+  [[item]]
+  organization = "Community Justice Initatives"
+  organization_url = "https://cjiwr.com/"
+  title = "StrideMen Volunteer Training"
+  url = "https://cjiwr.com/stride/stride-men/"
+  certificate_url = ""
+  date_start = ""
+  date_end = ""
+  description = "Formulated informed blockchain models, hypotheses, and use cases."
 
-[[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
+  [[item]]
+  organization = "VitalSmarts"
+  organization_url = "https://www.vitalsmarts.com"
+  title = "Influencer Training"
+  url = "https://www.vitalsmarts.com/influencer-training/"
   certificate_url = "https://www.edx.org"
   date_start = "2018-03-01"
   date_end = ""
   description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
 
 +++
