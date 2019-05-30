@@ -61,7 +61,7 @@ date_format = "Jan 2006"
   location = "Waterloo"
   date_start = "2017-09-01"
   date_end = ""
-  description = """For the past three years, I have faciliated a monthly conversation around healthy masculinity on campus. These conversations are hosted in a different faculty each month and designed to encourage men to become allies in ending gender-based violence. In this role, I have also worked with the Atheltics Department to create and facilitate a mandatory healthy relationships training for male student-athletes."""
+  description = """For the past three years, I have faciliated a monthly conversation around healthy masculinity on campus. These conversations are hosted in a different faculty each month and designed to encourage men to become allies in ending gender-based violence. In this role, I have also worked with the Athletics Department to create and facilitate a mandatory healthy relationships training for male student-athletes."""
   
   [[experience]]
   title = "Consultant"
@@ -70,7 +70,7 @@ date_format = "Jan 2006"
   location = "Toronto"
   date_start = "2017-08-15"
   date_end = "2017-08-15"
-  description = """Asked to created and faciliate a training for senior executives around unconscious bias."""
+  description = """Hired to create and faciliate a training for senior executives around unconscious bias."""
   
   [[experience]]
   title = "Consultant"
@@ -79,7 +79,7 @@ date_format = "Jan 2006"
   location = "Kitchener"
   date_start = "2017-08-10"
   date_end = "2017-08-10"
-  description = """Asked to created and faciliate a training for senior executives around unconscious bias. In addition, I used design thinking principles to help these senior executives develop an organic organizational strategy for fostering a more equitable workplace."""
+  description = """Hired to create and faciliate a training for senior executives around unconscious bias. In addition, I used design thinking principles to help these senior executives develop an organic organizational strategy for fostering a more equitable workplace."""
   
   [[experience]]
   title = "Founder"
