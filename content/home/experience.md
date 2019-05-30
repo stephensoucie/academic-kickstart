@@ -17,28 +17,109 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  
+  [[experience]]
+  title = "Teaching Assistant; Sociology and Sport"
+  company = "University of Waterloo"
+  company_url = "uwaterloo.ca/"
+  location = "Waterloo"
+  date_start = "2019-05-01"
+  date_end = "2019-07-01"
+  description = """Taught electronic engineering and researched semiconductor physics."""
+       
+  [[experience]]
+  title = "Consultant"
+  company = "Mennonite Central Committee of Ontario"
+  company_url = "mccanada.ca/"
+  location = "Waterloo"
+  date_start = "2018-09-01"
+  date_end = "2019-02-28"
+  description = """Taught electronic engineering and researched semiconductor physics."""
+  
+  [[experience]]
+  title = "Teaching Assistant; Introduction to Lesiure Studies"
+  company = "University of Waterloo"
+  company_url = "uwaterloo.ca/"
+  location = "Waterloo"
+  date_start = "2017-08-01"
+  date_end = "2018-04-01"
+  description = """Taught electronic engineering and researched semiconductor physics."""
+       
+       [[experience]]
+  title = "Teaching Assistant; Leisure and Gender"
+  company= "University of Waterloo"
+  company_url = "uwaterloo.ca/"
+  location = "Waterloo"
+  date_start = "2017-08-01"
+  date_end = "2018-04-01"
+  description = """Taught electronic engineering and researched semiconductor physics.""" 
+     
+     [[experience]]
+  title = "Teaching Assistant; Urban Recreation"
+  company = "University of Waterloo"
+  company_url = "uwaterloo.ca/"
+  location = "Waterloo"
+  date_start = "2018-05-01"
+  date_end = "2018-07-01"
+  description = """Taught electronic engineering and researched semiconductor physics."""
+  
+    [[experience]]
+  title = "Research Assistant"
+  company = "University of Waterloo"
+  company_url = "uwaterloo.ca/"
+  location = "Waterloo"
+  date_start = "2017-08-01"
+  date_end = "2018-04-01"
+  description = """Taught electronic engineering and researched semiconductor physics."""
+  
+  [[experience]]
+  title = "Consultant"
+  company = "University of Waterloo"
+  company_url = "uwaterloo.ca/"
+  location = "Waterloo"
+  date_start = "2017-08-01"
+  date_end = ""
+  description = """Taught electronic engineering and researched semiconductor physics."""
+  
+  [[experience]]
+  title = "Consultant"
+  company = "Rogers"
+  company_url = "rogers.com/"
+  location = "Toronto"
+  date_start = "2017-07-15"
+  date_end = "2017-07-15"
+  description = """Taught electronic engineering and researched semiconductor physics."""
+  
+  [[experience]]
+  title = "Consultant"
+  company = "Vidyard"
+  company_url = "vidyard.com/"
+  location = "Kitchener"
+  date_start = "2017-08-01"
+  date_end = "2017-08-01"
+  description = """Taught electronic engineering and researched semiconductor physics."""
+  
+  [[experience]]
+  title = "Founder"
+  company = "Gender Equity Consulting"
+  company_url = "genderquity.ca/"
+  location = "Canada"
+  date_start = "2017-07-01"
   date_end = ""
   description = """
   Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  * Organizational Needs Assessment
+  * Anti-Oppression and Allyship Training
+  * Policy and Procedure Development
   """
-
-[[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  
+  [[experience]]
+  title = "Research Assistant"
+  company = "University of Waterloo"
+  company_url = "uwaterloo.ca/"
+  location = "Waterloo"
+  date_start = "2017-05-01"
+  date_end = "2017-11-01"
   description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
