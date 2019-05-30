@@ -17,15 +17,6 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-  
-  [[experience]]
-  title = "Teaching Assistant; Sociology and Sport"
-  company = "University of Waterloo"
-  company_url = "uwaterloo.ca/"
-  location = "Waterloo"
-  date_start = "2019-05-01"
-  date_end = "2019-07-01"
-  description = """Taught electronic engineering and researched semiconductor physics."""
        
   [[experience]]
   title = "Consultant"
@@ -33,44 +24,17 @@ date_format = "Jan 2006"
   company_url = "mccanada.ca/"
   location = "Waterloo"
   date_start = "2018-09-01"
-  date_end = "2019-02-28"
+  date_end = "2019-03-01"
   description = """Taught electronic engineering and researched semiconductor physics."""
   
-  [[experience]]
-  title = "Teaching Assistant; Introduction to Lesiure Studies"
-  company = "University of Waterloo"
-  company_url = "uwaterloo.ca/"
-  location = "Waterloo"
-  date_start = "2017-08-01"
-  date_end = "2018-04-01"
-  description = """Taught electronic engineering and researched semiconductor physics."""
-       
-       [[experience]]
-  title = "Teaching Assistant; Leisure and Gender"
-  company= "University of Waterloo"
-  company_url = "uwaterloo.ca/"
-  location = "Waterloo"
-  date_start = "2017-08-01"
-  date_end = "2018-04-01"
-  description = """Taught electronic engineering and researched semiconductor physics.""" 
-     
      [[experience]]
-  title = "Teaching Assistant; Urban Recreation"
+  title = """Teaching Assistantship; Urban Recreation; Leisure and Gender; Introduction to Leisure Studies; Sociology and Sport"""
   company = "University of Waterloo"
   company_url = "uwaterloo.ca/"
   location = "Waterloo"
   date_start = "2018-05-01"
-  date_end = "2018-07-01"
-  description = """Taught electronic engineering and researched semiconductor physics."""
-  
-    [[experience]]
-  title = "Research Assistant"
-  company = "University of Waterloo"
-  company_url = "uwaterloo.ca/"
-  location = "Waterloo"
-  date_start = "2017-08-01"
-  date_end = "2018-04-01"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_end = ""
+  description = """Responsible for grading student papers and exams, answering student inquires, meeting with professor, attending lectures, designing and leading student discussion in seminar."""
   
   [[experience]]
   title = "Consultant"
@@ -115,12 +79,12 @@ date_format = "Jan 2006"
   """
   
   [[experience]]
-  title = "Research Assistant"
+  title = "Research Assistantship"
   company = "University of Waterloo"
   company_url = "uwaterloo.ca/"
   location = "Waterloo"
   date_start = "2017-05-01"
-  date_end = "2017-11-01"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_end = "2018-05-01"
+  description = """Responsible for recruiting participants and conducting in-depth semi-structured qualitative interviews. I was also tasked with editing and indexing a collection of scholarly articles."""
 
 +++
