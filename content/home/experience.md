@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   description = """Taught electronic engineering and researched semiconductor physics."""
   
   [[experience]]
-  title = """Teaching Assistantship; Urban Recreation; Leisure and Gender; Introduction to Leisure Studies; Sociology and Sport"""
+  title = """Teaching Assistant; Urban Recreation; Leisure & Gender; Introduction to Leisure Studies; Sociology & Sport"""
   company = "University of Waterloo"
   company_url = "uwaterloo.ca/"
   location = "Waterloo"
@@ -66,7 +66,7 @@ date_format = "Jan 2006"
   [[experience]]
   title = "Founder"
   company = "Gender Equity Consulting"
-  company_url = "genderquity.ca/"
+  company_url = "genderequity.ca/"
   location = "Canada"
   date_start = "2017-08-01"
   date_end = ""
@@ -79,7 +79,7 @@ date_format = "Jan 2006"
   """
   
   [[experience]]
-  title = "Research Assistantship"
+  title = "Research Assistant"
   company = "University of Waterloo"
   company_url = "uwaterloo.ca/"
   location = "Waterloo"
