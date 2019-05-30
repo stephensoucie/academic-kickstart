@@ -21,23 +21,32 @@ date_format = "Jan 2006"
   [[experience]]
   title = "Consultant"
   company = "Manulife"
-  company_url = "manulife/"
+  company_url = "manulife.com/"
   location = "Waterloo"
   date_start = "2019-04-01"
   date_end = ""
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = "Currently working with Manulife to develop an internal Male Allies program."
+  
+  [[experience]]
+  title = "Researcher"
+  company = "City of Waterloo"
+  company_url = "waterloo.ca/"
+  location = "Waterloo"
+  date_start = "2019-03-17"
+  date_end = "2019-03-17"
+  description = """Tasked with canvassing the Ezra Avenue St. Patrick's Day party and asking participants to complete a survey designed to better understand their motivations for attending the event."""
  
  [[experience]]
-  title = "Consultant"
-  company = "Mennonite Central Committee of Ontario"
+  title = "Consultant, [Circles of Accounability and Support](https://mcccanada.ca/learn/more/circles-support-accountability-cosa)"
+  company = "Mennonite Central Committee"
   company_url = "mccanada.ca/"
   location = "Kitchener; Hamilton; Toronto"
   date_start = "2018-09-01"
   date_end = "2019-03-01"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """Hired to conduct a needs assessment with staff, volunteers, and core members at three COSA sites in Ontario. In my final report, I provided MCC with reccomendations to improve the leisure lives of core members."""
   
   [[experience]]
-  title = """Teaching Assistant; Urban Recreation; Leisure & Gender; Introduction to Leisure Studies; Sociology & Sport"""
+  title = "Teaching Assistant, Urban Recreation; Gender & Leisure; Introduction to Leisure Studies; Sociology of Sport"
   company = "University of Waterloo"
   company_url = "uwaterloo.ca/"
   location = "Waterloo"
@@ -52,7 +61,7 @@ date_format = "Jan 2006"
   location = "Waterloo"
   date_start = "2017-09-01"
   date_end = ""
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """For the past three years, I have faciliated a monthly conversation around healthy masculinity on campus. These conversations are hosted in a different faculty each month and designed to encourage men to become allies in ending gender-based violence. In this role, I have also worked with the Atheltics Department to create and facilitate a mandatory healthy relationships training for male student-athletes."""
   
   [[experience]]
   title = "Consultant"
@@ -61,7 +70,7 @@ date_format = "Jan 2006"
   location = "Toronto"
   date_start = "2017-08-15"
   date_end = "2017-08-15"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """Asked to created and faciliate a training for senior executives around unconscious bias."""
   
   [[experience]]
   title = "Consultant"
@@ -70,7 +79,7 @@ date_format = "Jan 2006"
   location = "Kitchener"
   date_start = "2017-08-10"
   date_end = "2017-08-10"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """Asked to created and faciliate a training for senior executives around unconscious bias. In addition, I used design thinking principles to help these senior executives develop an organic organizational strategy for fostering a more equitable workplace."""
   
   [[experience]]
   title = "Founder"
@@ -94,7 +103,7 @@ date_format = "Jan 2006"
   location = "Waterloo"
   date_start = "2017-05-01"
   date_end = "2018-05-01"
-  description = """Worked on two qualitative research projects. On the first, I was responsible for recruiting participants and conducting in-depth semi-structured interviews. On the second, I was tasked with putting together an edited collection of scholarly articles."""
+  description = """During the first year of my PhD, I provided support on two qualitative research projects. On the first, I was responsible for recruiting participants and conducting in-depth semi-structured interviews. On the second, I was tasked with putting together an edited collection of scholarly articles."""
   
   [[experience]]
   title = "Coordinator, [Male Allies](https://maleallies.org)"
