@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Udemy"
   organization_url = "https://www.udemy.com"
-  title = ["Programming A-Z™: R For Data Science"](https://www.udemy.com/r-programming/)
+  title = "Programming A-Z™: R For Data Science"(https://www.udemy.com/r-programming/)
   certificate_url = ""
   date_start = "2019-05-01"
   date_end = "2019-07-01"
