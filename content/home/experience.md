@@ -73,9 +73,9 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Organizational Needs Assessment
-  * Anti-Oppression and Allyship Training
-  * Policy and Procedure Development
+  * Conducting Organizational Needs Assessments
+  * Creating and Facilitating Anti-Oppression Trainings
+  * Developing Policies and Procedures
   """
   
   [[experience]]
