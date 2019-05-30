@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   date_end = "2019-03-01"
   description = """Taught electronic engineering and researched semiconductor physics."""
   
-     [[experience]]
+  [[experience]]
   title = """Teaching Assistantship; Urban Recreation; Leisure and Gender; Introduction to Leisure Studies; Sociology and Sport"""
   company = "University of Waterloo"
   company_url = "uwaterloo.ca/"
@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   company = "University of Waterloo"
   company_url = "uwaterloo.ca/"
   location = "Waterloo"
-  date_start = "2017-08-01"
+  date_start = "2017-09-01"
   date_end = ""
   description = """Taught electronic engineering and researched semiconductor physics."""
   
@@ -59,8 +59,8 @@ date_format = "Jan 2006"
   company = "Vidyard"
   company_url = "vidyard.com/"
   location = "Kitchener"
-  date_start = "2017-08-01"
-  date_end = "2017-08-01"
+  date_start = "2017-08-10"
+  date_end = "2017-08-10"
   description = """Taught electronic engineering and researched semiconductor physics."""
   
   [[experience]]
