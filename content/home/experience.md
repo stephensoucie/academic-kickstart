@@ -20,6 +20,15 @@ date_format = "Jan 2006"
        
   [[experience]]
   title = "Consultant"
+  company = "Manulife"
+  company_url = "manulife/"
+  location = "Waterloo"
+  date_start = "2019-04-01"
+  date_end = ""
+  description = """Taught electronic engineering and researched semiconductor physics."""
+ 
+ [[experience]]
+  title = "Consultant"
   company = "Mennonite Central Committee of Ontario"
   company_url = "mccanada.ca/"
   location = "Waterloo"
@@ -88,12 +97,12 @@ date_format = "Jan 2006"
   description = """Worked on two qualitative research projects. On the first, I was responsible for recruiting participants and conducting in-depth semi-structured interviews. On the second, I was tasked with putting together an edited collection of scholarly articles."""
   
   [[experience]]
-  title = "Coordinator, Male Allies"
+  title = "Coordinator, [Male Allies](https://maleallies.org)"
   company = "Sexual Assault Support Centre of Waterloo Region"
-  company_url = "maleallies.ca/"
+  company_url = "sascwr.org/"
   location = "Kitchener"
   date_start = "2013-05-01"
   date_end = "2017-07-01"
-  description = """Responsible for recruiting participants and conducting in-depth semi-structured qualitative interviews. I was also tasked with editing and indexing a collection of scholarly articles."""
+  description = """As the first male staff member at SASC, I was provided the platform to [facilitate over four hundred workshops](https://www.youtube.com/watch?v=vQZUtjQkdWs/) with more than 10,000 men and boys. In my final year, I worked with the [Ontario Hockey League](https://ontariohockeyleague.com/) to create the curriculum for [OHL Onside](https://ontariohockeyleague.com/article/ohl-announces-launch-of-ohl-onside/), a mandatory training about healthy relationships that all players must now complete upon entering the league."""
 
 +++
