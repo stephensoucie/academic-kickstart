@@ -26,10 +26,6 @@ interests:
 - Knowledge Mobilization
 
 education:
-  courses:
-  - course: PhD in Applied Health Sciences
-    institution: University of Waterloo
-    year: 2017-
   - course: MA in Sociology
     institution: Brock University
     year: 2016
@@ -67,7 +63,6 @@ user_groups:
 - Visitors
 ---
 
-
-I am a PhD student in the Applied Health Sciences faculty at the University of Waterloo. Broadly speaking, my research and activism is centred around creating healthier, more just communities. On campus, I work with the [UNs HeForShe](https://https://www.heforshe.org/en/) initiative to provide support and training for [faculty and campus advocates](https://uwaterloo.ca/heforshe/) in the area of men and masculinities. Off campus, I support and volunteer with a number of [community-based restorative justice initatives](https://www.youtube.com/watch?v=bW0juNi-wb4/) designed to provide re-integration support for men in conflcit with the law.
+Hello! My name is Stephen Soucie. My research and activism centre around creating healthier, more just communities. On campus at the Univeristy of Waterloo, I have worked extensively with the Athletics Department to train all incoming male student-athletes around consent and healthy relationships -- as well as with the [UNs HeForShe](https://https://www.heforshe.org/en/) initiative -- providing support and training around gender equity for male [faculty and campus advocates](https://uwaterloo.ca/heforshe/). In the Kitchener-Waterloo community, I support and volunteer with a number of [community-based restorative justice initatives](https://www.youtube.com/watch?v=bW0juNi-wb4/) designed to provide re-integration support for men in conflcit with the law.
 
 Two years ago, I founded [Gender Equity Consulting](https://genderequity.ca/). Through this social enterprise, I have provided equity-based support and training for a variety of organizations; ranging from non-profits like [Mennonite Central Committee](https://mcccanada.ca/) to multi-national corporations such as [Manulife](https://manulife.com/), [Rogers](https://rogers.com/), and [Vidyard](https://vidyard.com).
