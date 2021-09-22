@@ -9,12 +9,6 @@ authors:
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position
-role: 
-
-# Organizations/Affiliations
-organizations:
-
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include men and masculinities, gender equity, and allyship.
 
